@@ -1,0 +1,1 @@
+# qrcode-video-detect-opencv
